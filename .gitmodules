@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "binovisualfields"]
+	path = binovisualfields
+	url = https://github.com/cran/binovisualfields
+	shallow = true
+	registered = true
